@@ -45,20 +45,14 @@
     
     <div class="blog-summary">
     	<p>One of the benefits of social media is efficient and effective communication. It helps people to keep in touch with friends, family, colleagues and business partners all over the world. In this case, distance is not a barrier. 
-      Social media also helps people review or get reviews of products and services. For example, reviews to a restaurant on their website or for companies like Amazon, there are reviews and ratings that help you decide on what products you want to purchase.
-      </p>
+      Social media also helps people review or get reviews of products and services. For example, reviews to a restaurant on their website or for companies like Amazon, there are reviews and ratings that help you decide on what products you want to purchase.</p>
     	<p>Collaborations is also a very good advantage of social media. Collaborative tools like Google and Wikipedia provide people with the chance to update their views and enable people edit and share documents online. Many individuals can collaborate in the most personalized way to get a result in a synchronized fashion.
-      When it comes to businesses, social media is a great tool for Brand monitoring. Companies make use of brand monitoring tools to see what is being talked about their businesses. This online presence is possible with the use of social media.
-      </p>
+      When it comes to businesses, social media is a great tool for Brand monitoring. Companies make use of brand monitoring tools to see what is being talked about their businesses. This online presence is possible with the use of social media.</p>
     </div>
     <div class="blog-summary">
-    	<p>
-    		Entertainment is now a very vital part of social media, most people use social media as an escape from the real world, where they can unwind. There are many online games and entertainment industries that are now very well dependant on the use of social media to promote their craft. This includes Media sharing and Paid advertisement.
-    	</p>
-    	<p>User-generated content, such as text messages or comments, digital photos or videos, and data generated from all online interactions are the lifeblood of social media [Obar et al 2015; Kaplan et al 2010].One of the surprising facts about social media is: There are about 3.5 billion active social media users and a new account is created every 6.4 seconds. Each user has an average of 7.6 social media accounts. They spend about 142 minutes on social networks every day[Soner Alemdar, 2022]. Facebook is the most used social media site [Alfred Lua].
-    	</p>
-    	<p>Social media is also used to document memories. learn and explore; Advertise yourself. Build friendships with ideas that grow by creating blogs, podcasts, video and gaming sites [O'Keeffe et al, 2011].
-    	</p>
+    	<p>Entertainment is now a very vital part of social media, most people use social media as an escape from the real world, where they can unwind. There are many online games and entertainment industries that are now very well dependant on the use of social media to promote their craft. This includes Media sharing and Paid advertisement.</p>
+    	<p>User-generated content, such as text messages or comments, digital photos or videos, and data generated from all online interactions are the lifeblood of social media [Obar et al 2015; Kaplan et al 2010].One of the surprising facts about social media is: There are about 3.5 billion active social media users and a new account is created every 6.4 seconds. Each user has an average of 7.6 social media accounts. They spend about 142 minutes on social networks every day[Soner Alemdar, 2022]. Facebook is the most used social media site [Alfred Lua].</p>
+    	<p>Social media is also used to document memories. learn and explore; Advertise yourself. Build friendships with ideas that grow by creating blogs, podcasts, video and gaming sites [O'Keeffe et al, 2011].</p>
   
     </div>
     <div class="blog-title">
@@ -75,12 +69,10 @@
     	<h1><a href="#remedy">HOW DO WE REMEDY THIS SOCIETAL PLAGUE?</a></h1>
     </div>
     <div class="blog-summary">
-    	<p>From a personal study, I believe the government can collaborate with some of social media platforms to enable only license adults to use some of these social media platforms. This can be done by requesting a valid I.D card before one can use a social media platform. Parents should equally monitor the use of social media by their underage kids.
-		</p>
+    	<p>From a personal study, I believe the government can collaborate with some of social media platforms to enable only license adults to use some of these social media platforms. This can be done by requesting a valid I.D card before one can use a social media platform. Parents should equally monitor the use of social media by their underage kids.</p>
 		<p>The rate of unemployment has also driven some youths into fraudulent acts to survive out of frustration. Therefore, creating more job opportunities will help reduce the crime rate. 
     Parents and schools should also educate children on the consequences of involving themselves in fraudulent lifestyle and make them understand that there’s no fast way of making money. Education is also very important, children and youths should be supported by the government to go to school. This will lift a lot of kids from the streets.
-    With the rate of poverty being quite high, money only circulates among the rich. The government should also provide basic amenities for their people, this way, there are less things to worry about. 
-    </p>
+    With the rate of poverty being quite high, money only circulates among the rich. The government should also provide basic amenities for their people, this way, there are less things to worry about. </p>
     </div>
     
     <div class="blog-title" id="conclusion">
@@ -89,8 +81,7 @@
     <div class="blog-summary">
     	<p>One will often wonder, is the negative impact of social media outshining its advantages?. As a youth in Nigeria, I believe we all know right from wrong and are capable of making the right decisions. I believe if we all do our part, the society will be a better place to live in.</p>
     	<p><strong>REFERENCES</strong></p>
-    	<p>1. Kaplan Andreas M.; Haenlein Michael (2010). "Users of the world, unite! The challenges and opportunities of social media" (PDF). Business Horizons. 53 (1): 61. doi:10.1016/j.bushor.2009.09.003. Archived from the original (PDF) on 2011-11-24. Retrieved 2016-12-07
-		</p>
+    	<p>1. Kaplan Andreas M.; Haenlein Michael (2010). "Users of the world, unite! The challenges and opportunities of social media" (PDF). Business Horizons. 53 (1): 61. doi:10.1016/j.bushor.2009.09.003. Archived from the original (PDF) on 2011-11-24. Retrieved 2016-12-07</p>
 		<p>2. Kietzmann, Jan H; Kristopher Hermkens (2011). “social media? Get serious! Understanding the functional building blocks of social media”. Business Horizons (submitted manuscript). 54 (3): 241-251. doi:10.1016/j.bushor.2011.01.005.</p>
 		<p>3. Obar, Jonathan A.; Wildman, Steve (2015). "Social media definition and the governance challenge: An introduction to the special issue". Telecommunications Policy. 39 (9): 745–750. doi:10.1016/j.telpol.2015.07.014. SSRN 2647377.</p>
 		<p>4. O'Keeffe, Gwenn Schurgin; Clarke-Pearson, Kathleen; Media, Council on Communications and (April 1, 2011). "The Impact of Social Media on Children, Adolescents, and Families". Pediatrics. 127 (4): 800–804. doi:10.1542/peds.2011-0054. ISSN 0031-4005. PMID 21444588</p>
