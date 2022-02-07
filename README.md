@@ -84,12 +84,13 @@
   </div>
 </div>
 <footer>
-	<div class="fluid-div">
-		<p>Project is maintained by - <a href="https://github.com/Ucybrown">Ucybrown</a></p>
-		<br>
-		<p>Theme by <a href="https://twitter.com/Okoyeanthonyy">OkoyeTagbo</a> </p>
-	</div>
-</footer><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<div class="fluid-div">
+	<p>Project is maintained by - <a href="https://github.com/Ucybrown">Ucybrown</a></p>
+	<br>
+	<p>Theme by <a href="https://twitter.com/Okoyeanthonyy">OkoyeTagbo</a> </p>
+</div>
+</footer>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript" src="main.js"></script>
 </body>
 </html>
