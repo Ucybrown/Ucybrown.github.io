@@ -112,7 +112,7 @@
 	<div class="fluid-div">
 		<p>Project is maintained by - <a href="https://github.com/Ucybrown">Ucybrown</a></p>
 		<br>
-		<p>Hosted on GitHub Pages - Theme by <a href="https://twitter.com/Okoyeanthonyy">OkoyeTagbo</a> </p>
+		<p>Theme by <a href="https://twitter.com/Okoyeanthonyy">OkoyeTagbo</a> </p>
 	</div>
 </footer>
 
