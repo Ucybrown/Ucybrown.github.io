@@ -47,7 +47,7 @@
     	<p>User-generated content, such as text messages or comments, digital photos or videos, and data generated from all online interactions are the lifeblood of social media [Obar et al 2015; Kaplan et al 2010].One of the surprising facts about social media is: There are about 3.5 billion active social media users and a new account is created every 6.4 seconds. Each user has an average of 7.6 social media accounts. They spend about 142 minutes on social networks every day[Soner Alemdar, 2022]. Facebook is the most used social media site [Alfred Lua].</p>
     	<p>Social media is also used to document memories. learn and explore; Advertise yourself. Build friendships with ideas that grow by creating blogs, podcasts, video and gaming sites [O'Keeffe et al, 2011].</p>
     </div>
-    <div class="blog-title">
+    <div class="blog-title" id="negative">
     	<h1><a href="#negative">NEGATIVE IMPACT OF SOCIAL MEDIA TO THE NIGERIAN YOUTHS. WHY?!</a></h1>
     </div>
     <div class="blog-summary">
@@ -56,7 +56,7 @@
     	<p>The recent happenings on the internet are blood rituals which involve killing of innocent people just to make money. There are some youths doing blood rituals where they kill their loved ones and sacrifice them to deities whom promised them wealth in return. This fetish and diabolic act has drawn the attention of thousands of Nigerians, media houses and T.V stations. </p>
     	<p>Everyone is talking about this but how can it be solved?. How do we educate the youths that there’s no fast way of making money?. They need to know that wealth and success is a gradual process of determination, focus, hard work and consistency. Social media has promoted so many unreal lifestyles that need to be corrected. I believe the society in general has an important role to play. </p>	
     </div>
-    <div class="blog-title" id="risk">
+    <div class="blog-title" id="remedy">
     	<h1><a href="#remedy">HOW DO WE REMEDY THIS SOCIETAL PLAGUE?</a></h1>
     </div>
     <div class="blog-summary">
