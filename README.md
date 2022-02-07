@@ -8,10 +8,8 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
 </head>
 <body>
-
 <header class="float-left">
 	<button id="nav-toggle"></button>
 	<nav>
@@ -21,9 +19,7 @@
 	<a href="#conclusion">CONCLUSION</a>
 	</nav>
 </header>
-
 <div class="blog-container">
-  
   <div class="blog-header">
     <div class="blog-cover">
       <div class="blog-author">
@@ -93,8 +89,7 @@
 		<br>
 		<p>Theme by <a href="https://twitter.com/Okoyeanthonyy">OkoyeTagbo</a> </p>
 	</div>
-</footer>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</footer><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript" src="main.js"></script>
 </body>
 </html>
